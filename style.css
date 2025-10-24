@@ -1,8 +1,8 @@
 body{
-background-color: rgb(228, 28, 111);
+background-color: rgb(163, 12, 194);
 color:aliceblue;
   font-family: "BBH Sans Bogle", sans-serif;
- display: lex;
+ display: flex;
  justify-content: center;
  align-items: center;
  height: 700px; 
@@ -10,8 +10,8 @@ color:aliceblue;
 }
  
 button {
-background-color: darkviolet;
+background-color: rgb(236, 29, 174);
 color: aliceblue;
  font-family: "BBH Sans Bogle", sans-serif;
- 
+
 }
